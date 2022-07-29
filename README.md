@@ -1,5 +1,7 @@
 # Homework-4-2
 
+When you enter a city name on the aapplication you are presented with the weather in that area.
+
 # 06 Server-Side APIs: Weather Dashboard
 
 ## Your Task
